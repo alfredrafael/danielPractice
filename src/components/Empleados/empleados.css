@@ -1,0 +1,27 @@
+#empleados .glow-box {
+  width: 250px;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #5ea134;
+  border-radius: 20px;
+  box-shadow: 0px 0px 10px #abb2b9;
+  font-family: Open Sans;
+  font-family: Open Sans;
+  font-style: normal;
+  text-transform: none;
+}
+
+#empleados .header {
+  color: #5ea134;
+  margin-bottom: 0.375rem;
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+  font-weight: 600;
+  display: block;
+}
+
+#empleados .content {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 24px;
+}
